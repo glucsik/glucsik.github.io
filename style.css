@@ -1,13 +1,9 @@
 body {
-    background-color: #121212;
+    background-color: #212020;
     color: #ffffff;
     font-family: "Times New Roman", Times, serif;
 }
 
 a {
-    color: #3498db;
-}
-
-a:visited {
-  color: #9b59b6;
+    color:rgb(92, 94, 234);
 }
