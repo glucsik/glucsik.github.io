@@ -1,0 +1,13 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: "Times New Roman", Times, serif;
+}
+
+a {
+    color: #3498db;
+}
+
+a:visited {
+  color: #9b59b6;
+}
